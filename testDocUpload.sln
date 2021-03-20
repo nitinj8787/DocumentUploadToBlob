@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testDocUpload", "testDocUpload\testDocUpload.csproj", "{38E94D5C-9CDE-4A62-8CD3-385B52E41FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testDocUpload.Tests", "testDocUpload.Tests\testDocUpload.Tests.csproj", "{D25DC213-613D-48B3-8FA1-F89024670818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E94D5C-9CDE-4A62-8CD3-385B52E41FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E94D5C-9CDE-4A62-8CD3-385B52E41FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E94D5C-9CDE-4A62-8CD3-385B52E41FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E94D5C-9CDE-4A62-8CD3-385B52E41FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25DC213-613D-48B3-8FA1-F89024670818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25DC213-613D-48B3-8FA1-F89024670818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25DC213-613D-48B3-8FA1-F89024670818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25DC213-613D-48B3-8FA1-F89024670818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {700DE825-A58A-4D2A-94F3-BC6A0F65770A}
+	EndGlobalSection
+EndGlobal
